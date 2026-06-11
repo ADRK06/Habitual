@@ -2,7 +2,7 @@ import json
 from datetime import date , timedelta
 
 def show_menu():
-    print("\n----HABIT TRACKER----")
+    print("\n---- HABITUAL ----")
     print("1. Add a new habit")
     print("2. Mark habit as completed")
     print("3. View all habits")
